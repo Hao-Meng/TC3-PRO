@@ -6,6 +6,7 @@ VAR
 	a:INT
 	b:INT
 	c:INT
+	add1:FB_ADD;
 END_VAR
 ]]></Declaration>
     <Implementation>
